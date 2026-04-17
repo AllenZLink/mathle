@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mathle">
+  <rect width="64" height="64" rx="12" fill="#2563eb"/>
+  <rect x="8" y="8" width="48" height="48" rx="8" fill="#eff6ff"/>
+  <path d="M16 22h32M16 32h32M16 42h32" stroke="#1e40af" stroke-width="4" stroke-linecap="round"/>
+  <path d="M22 16v32M32 16v32M42 16v32" stroke="#93c5fd" stroke-width="3" stroke-linecap="round"/>
+  <path d="M20 22h8m-4-4v8M38 22h8M20 42h8m10 0h8" stroke="#dc2626" stroke-width="3" stroke-linecap="round"/>
+</svg>

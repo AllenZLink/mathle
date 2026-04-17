@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Mathle social preview">
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  <rect x="72" y="72" width="1056" height="486" rx="28" fill="#ffffff" stroke="#bfdbfe" stroke-width="4"/>
+  <text x="120" y="190" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700">MATHLE</text>
+  <text x="124" y="265" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="34">A daily math Wordle game</text>
+  <g transform="translate(122 330)">
+    <rect width="64" height="64" rx="8" fill="#86efac" stroke="#94a3b8"/>
+    <rect x="74" width="64" height="64" rx="8" fill="#86efac" stroke="#94a3b8"/>
+    <rect x="148" width="64" height="64" rx="8" fill="#fbbf24" stroke="#94a3b8"/>
+    <rect x="222" width="64" height="64" rx="8" fill="#86efac" stroke="#94a3b8"/>
+    <rect x="296" width="64" height="64" rx="8" fill="#cbd5e1" stroke="#94a3b8"/>
+    <text x="32" y="43" text-anchor="middle" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">2</text>
+    <text x="106" y="43" text-anchor="middle" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">6</text>
+    <text x="180" y="43" text-anchor="middle" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">+</text>
+    <text x="254" y="43" text-anchor="middle" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">9</text>
+    <text x="328" y="43" text-anchor="middle" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">6</text>
+    <text x="396" y="43" text-anchor="middle" fill="#1e40af" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">=</text>
+    <rect x="430" width="64" height="64" rx="8" fill="#86efac" stroke="#94a3b8"/>
+    <rect x="504" width="64" height="64" rx="8" fill="#86efac" stroke="#94a3b8"/>
+    <rect x="578" width="64" height="64" rx="8" fill="#86efac" stroke="#94a3b8"/>
+    <text x="462" y="43" text-anchor="middle" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">1</text>
+    <text x="536" y="43" text-anchor="middle" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">2</text>
+    <text x="610" y="43" text-anchor="middle" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">2</text>
+  </g>
+  <text x="124" y="485" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="28">Daily, Hourly, and Infinite arithmetic puzzles.</text>
+</svg>

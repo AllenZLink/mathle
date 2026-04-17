@@ -1,0 +1,10 @@
+{
+  "meta.title": "Hourly Mathle puzzle, a fresh arithmetic Wordle every hour",
+  "meta.description": "Play Hourly Mathle for a new addition or subtraction puzzle every hour. Five guesses, fast feedback, and a fresh challenge all day.",
+  "seo.heading": "Hourly Mathle",
+  "seo.intro": "Hourly Mathle adds a new arithmetic puzzle every hour. It keeps the same five-guess equation challenge, but refreshes more often than the daily game.",
+  "seo.featureHeading": "A fresh puzzle every hour",
+  "seo.feature": "The Hourly mode is fixed by your browser's local date and hour. Each hour has its own deterministic puzzle from the three-year schedule.",
+  "seo.rhythmHeading": "Best for repeat play",
+  "seo.rhythm": "Use Hourly mode when you want more than one challenge in a day without switching to unlimited practice."
+}

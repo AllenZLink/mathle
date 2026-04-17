@@ -1,0 +1,14 @@
+{
+  "meta.title": "Mathle Privacy Policy",
+  "meta.description": "Privacy information for Mathle, including local storage and the current no-analytics, no-advertising setup.",
+  "heading": "Privacy Policy",
+  "intro": "Mathle is a browser-based daily puzzle. This page explains what information may be stored or processed when you use the site.",
+  "localStorage.heading": "Local storage",
+  "localStorage.body": "Mathle stores your settings and puzzle progress in your browser using local storage. This lets the game remember your current board, colorblind mode preference, language preference, selected mode, and rating state on the same device.",
+  "analytics.heading": "Analytics",
+  "analytics.body": "Mathle does not currently load analytics scripts or send usage events to an analytics provider. If analytics are added later, this page should be updated before launch.",
+  "ads.heading": "Advertising and third parties",
+  "ads.body": "Mathle does not currently load advertising scripts, ad slots, or third-party measurement code. If advertising is added later, this page should be updated before launch.",
+  "contact.heading": "Contact",
+  "contact.body": "For questions about this privacy page, use the contact links provided on the Mathle site."
+}

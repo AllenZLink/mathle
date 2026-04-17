@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.next": true,
+    "**/node_modules": true,
+    "**/out": true,
+    "**/old": true,
+    "mathlegame.com": true,
+    "reconstructed-mathle": true
+  },
+  "search.exclude": {
+    "**/.next": true,
+    "**/node_modules": true,
+    "**/out": true,
+    "mathlegame.com": true,
+    "reconstructed-mathle": true
+  }
+}

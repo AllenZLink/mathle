@@ -1,0 +1,16 @@
+{
+  "meta.title": "Mathle Changelog",
+  "meta.description": "Recent updates and release notes for the Mathle daily math puzzle.",
+  "heading": "Changelog",
+  "intro": "Recent updates to Mathle, the daily math Wordle-style puzzle.",
+  "release.heading": "April 2026",
+  "release.items": [
+    "Upgraded the site to Next.js App Router and TypeScript.",
+    "Added Daily, Hourly, and Infinite puzzle modes.",
+    "Added English and German language routes.",
+    "Added static SEO content for search engines and non-JavaScript visitors.",
+    "Added canonical and hreflang links for supported languages."
+  ],
+  "reconstruction.heading": "Initial reconstruction",
+  "reconstruction.body": "The playable Mathle experience was reconstructed from the captured static build, including puzzle progress, keyboard input, share text, and colorblind mode."
+}
