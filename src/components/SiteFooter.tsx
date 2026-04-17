@@ -40,6 +40,12 @@ export default function SiteFooter({ locale = "en", mode }: SiteFooterProps) {
             );
           })}
         </div>
+        <div className="footer-row" aria-label="Contact">
+          <span>Contact me</span>
+          <a className="footer-link" href="https://github.com/AllenZLink/mathle" target="_blank" rel="noreferrer">
+            GitHub
+          </a>
+        </div>
         <p className="body-copy text-sm">
           © 2026 Mathle. All rights reserved. Mathle is an independent math puzzle for casual play.
         </p>

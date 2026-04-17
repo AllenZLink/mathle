@@ -557,6 +557,12 @@ function HelpModal({ settings, onClose }: Readonly<{ settings: Settings; onClose
         <h2 className="pb-2 text-xl font-normal text-blue-800">{intl.formatMessage({ id: "help.about" })}</h2>
         <p className="py-1 text-gray-600">{intl.formatMessage({ id: "help.aboutDescription" })}</p>
         <p className="py-1 text-gray-600">{intl.formatMessage({ id: "help.aboutDescription2" })}</p>
+        <p className="py-1 text-gray-600">
+          {intl.formatMessage({ id: "help.openSource" })}{" "}
+          <a href="https://github.com/AllenZLink/mathle" target="_blank" rel="noreferrer">
+            GitHub
+          </a>
+        </p>
       </div>
       <button
         type="button"
